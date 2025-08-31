@@ -1,2 +1,2 @@
-# mi_primer_proyecto
-Facil
+Este es mi primer proyecto de POE y estoy aprendiendo mucho con los videos
+# :)
